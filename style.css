@@ -7,7 +7,7 @@
 .banner{
 width: 100%;
 height: 100vh;
-background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://youth-retreat.s3.amazonaws.com/Retreat_site_background.jpeg);
+background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Retreat_site_background.jpeg);
 background-size: cover;
 background-position: center;
 }
